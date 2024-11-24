@@ -1,7 +1,7 @@
 # Name Registry System
 
 This contract is created for educational purposes. You are free to use and modify it in any way you like.
-* [name-registry-system.sol](./name-registry-system/readme.md)
+* [name-registry-system.sol](./name-registry-system/name-registry-sol.md)
 
 ## Add Functions
 
